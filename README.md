@@ -47,27 +47,3 @@ User -
   zip;
 ```
 
-## **Instructions**
-
-- [ ] Use **react** for this assignment.
-- [ ] **IMPORTANT**: Pagination, search and sorting should be implemented manually in the frontend only. **DO NOT** use 3rd party library or inbuilt feature for these.
-- [ ] Data should be _fetched_ from the [api provided](#api-endpoint) (and not stored in source code)
-- [ ] `yarn start` (or `npm run start` if using npm) should start the app
-- [ ] `yarn bulid` (or `npm run build` if using npm) should build the app
-- [ ] repo should not contain irrelevant folders/files like node_modules, build directories etc.
-- [ ] Follow the [wireframes](#wireframes) provided closely
-- [ ] Follow these steps for submission:
-  1. Fork the repository
-  1. Create issues and work on them in their respective branches
-  1. Complete the tasks while following all instructions
-  1. Create MRs and merge into main branch
-  1. When done, Test if all task requirements are met and instructions followed
-  1. Push code to github
-  1. Deploy and host the app using Github Pages
-  1. Reply to the same email with the **repo URL** and **hosted URL**
-- For any queries please email back the HR.
-
-## Wireframes:
-
-Wireframes for users table page _(left)_ and user detail page _(right)_
-![Wireframes for screens](screens-wireframes.png)
